@@ -1,0 +1,27 @@
+body{
+	background-color: black;
+}
+.opmaakpagina{
+	width:50%;
+	margin-left: 25%;
+}
+img{
+	width: 100%;
+	border: 10px;
+	border-color: white;
+}
+h1, p{
+	color: white;
+  font-family: "Alumni Sans Pinstripe", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-family: "Alumni Sans Pinstripe", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+#lettertype{
+	font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
